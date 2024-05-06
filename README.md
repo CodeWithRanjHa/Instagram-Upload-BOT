@@ -1,5 +1,7 @@
 # Instagram Photo Uploader
 
+
+
 ## Overview
 
 Instagram Photo Uploader is a Python command-line tool that simplifies the process of uploading photos to Instagram. With this tool, users can upload photos directly from their computer without the need for a separate app or web interface.
@@ -41,5 +43,11 @@ Instagram Photo Uploader is a Python command-line tool that simplifies the proce
 ## Contributions
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
+## Authors
+
+- [@CodeWithRanjha](https://github.com/CodeWithRanjHa)
+
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/wasim-nawaz)
+
 
 
