@@ -19,7 +19,7 @@ Instagram Photo Uploader is a Python command-line tool that simplifies the proce
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/CodeWithRanjha/instagram-Uploader.BOT.git
+    git clone https://github.com/CodeWithRanjha/instagram-Uploader-BOT.git
     ```
 
 2. Install dependencies:
