@@ -47,7 +47,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 - [@CodeWithRanjha](https://github.com/CodeWithRanjHa)
 
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-nawaz/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-ranjhaa/)
 
 
 
